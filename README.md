@@ -168,80 +168,93 @@
   Featured Projects
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" />
 </h2>
-
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="350" />
-          <h3>🤖 AI-Powered SaaS Platform</h3>
-          <p>A comprehensive platform leveraging machine learning for intelligent business automation and predictive analytics</p>
-          <div>
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-            <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-          </div>
-          <br>
-          <a href="https://github.com/sehan-dissanayake/ai-saas-platform" target="_blank">
-            <img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+        <h3 align="center">Velocity <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="25"></h3>
+        <div align="center">  
+          <a href="https://github.com/sehan-dissanayake/velocity" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sehan-dissanayake&repo=velocity&theme=radical" alt="Velocity" />
           </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/sehan-dissanayake/velocity" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="View Repository" />
+            </a>
+          </p>
+          <p><strong>Flutter, Dart, HTML, JavaScript</strong> - A mobile application with smooth animations and performance optimization built with Flutter.</p>
+          <p>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+          </p>
         </div>
       </td>
       <td width="50%">
-        <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350" />
-          <h3>🌐 Full-Stack E-Commerce</h3>
-          <p>Modern e-commerce ecosystem with advanced features, real-time analytics, and seamless user experience</p>
-          <div>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-          </div>
-          <br>
-          <a href="https://github.com/sehan-dissanayake/ecommerce-platform" target="_blank">
-            <img src="https://img.shields.io/badge/View_Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
+        <h3 align="center">RPAL Interpreter <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"></h3>
+        <div align="center">  
+          <a href="https://github.com/sehan-dissanayake/rpal-interpreter" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sehan-dissanayake&repo=rpal-interpreter&theme=radical" alt="RPAL Interpreter" />
           </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/sehan-dissanayake/rpal-interpreter" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="View Repository" />
+            </a>
+          </p>
+          <p><strong>Python</strong> - An interpreter for the RPAL (Right-reference Pedagogic Algorithmic Language) programming language.</p>
+          <p>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+          </p>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-8f9b5f8e0bb4.gif" width="350" />
-          <h3>📱 Mobile App Suite</h3>
-          <p>Cross-platform mobile application suite with native performance and cutting-edge UI/UX design</p>
-          <div>
-            <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-            <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-          </div>
-          <br>
-          <a href="https://github.com/sehan-dissanayake/mobile-app-suite" target="_blank">
-            <img src="https://img.shields.io/badge/View_Project-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
+        <h3 align="center">Oasis Protocol <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="30"></h3>
+        <div align="center">  
+          <a href="https://github.com/Kasun333/-Oasis-Protocol" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kasun333&repo=-Oasis-Protocol&theme=radical" alt="Oasis Protocol" />
           </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/Kasun333/-Oasis-Protocol" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="View Repository" />
+            </a>
+          </p>
+          <p><strong>Blockchain Project</strong> - A collaborative blockchain protocol project with enhanced security features and distributed ledger technology.</p>
+          <p>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+            <img src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" alt="blockchain" width="40" height="40"/>
+          </p>
         </div>
       </td>
       <td width="50%">
-        <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/212751234-3f8c5b99-3b37-4b0c-9b7e-0e1c4e3e6c7a.gif" width="350" />
-          <h3>🔧 Developer Tools</h3>
-          <p>Open-source developer tools and libraries designed to enhance productivity and streamline workflows</p>
-          <div>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-            <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-          </div>
-          <br>
-          <a href="https://github.com/sehan-dissanayake/dev-tools" target="_blank">
-            <img src="https://img.shields.io/badge/View_Project-F39C12?style=for-the-badge&logo=github&logoColor=white" />
+        <h3 align="center">Resume Rover <img src="https://media.giphy.com/media/3oKIPeQ5Uz1smtGe3C/giphy.gif" width="25"></h3>
+        <div align="center">  
+          <a href="https://github.com/ResumeRover/Main" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ResumeRover&repo=Main&theme=radical" alt="Resume Rover" />
           </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/ResumeRover/Main" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="View Repository" />
+            </a>
+          </p>
+          <p><strong>Resume Generator App</strong> - An intelligent resume building platform that helps users create professional resumes with AI assistance.</p>
+          <p>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+          </p>
         </div>
       </td>
     </tr>
   </table>
 </div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <h2 align="center">🎯 Innovation Philosophy</h2>
