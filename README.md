@@ -270,7 +270,7 @@
       <td width="50%">
         <h3>💭 Manifesto</h3>
         <blockquote>
-          <p><em>"If it works, don’t touch it."</em></p>
+          <p><em>"Every line should solve a real problem, not just demonstrate cleverness."</em></p>
         </blockquote>
         <ul>
           <li>🎨 Craftsmanship:</strong> Writing clean, maintainable code that stands the test of time</li>
